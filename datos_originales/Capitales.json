@@ -1,0 +1,1442 @@
+[
+    {
+        "País": "Albania",
+        "Capital": "Tirana",
+        "Ciudad propiamente": "557.422",
+        "Área urbana": ""
+    },
+    {
+        "País": "Alemania",
+        "Capital": "Berlín",
+        "Ciudad propiamente": "3.576.873",
+        "Área urbana": "4.890.363"
+    },
+    {
+        "País": "Andorra",
+        "Capital": "Andorra la Vella",
+        "Ciudad propiamente": "22.256",
+        "Área urbana": ""
+    },
+    {
+        "País": "Austria",
+        "Capital": "Viena",
+        "Ciudad propiamente": "2.002.821",
+        "Área urbana": "2.223.236"
+    },
+    {
+        "País": "Belarús",
+        "Capital": "Minsk",
+        "Ciudad propiamente": "2.018.281",
+        "Área urbana": ""
+    },
+    {
+        "País": "Bélgica",
+        "Capital": "Bruselas",
+        "Ciudad propiamente": "188.737",
+        "Área urbana": "1.235.192"
+    },
+    {
+        "País": "Bosnia y Hercegovina",
+        "Capital": "Sarajevo",
+        "Ciudad propiamente": "275.524",
+        "Área urbana": "419.957"
+    },
+    {
+        "País": "Bulgaria",
+        "Capital": "Sofía",
+        "Ciudad propiamente": "1.221.785",
+        "Área urbana": ""
+    },
+    {
+        "País": "Chequia",
+        "Capital": "Praga",
+        "Ciudad propiamente": "1.301.432",
+        "Área urbana": ""
+    },
+    {
+        "País": "Croacia",
+        "Capital": "Zagreb",
+        "Ciudad propiamente": "767.131",
+        "Área urbana": ""
+    },
+    {
+        "País": "Dinamarca",
+        "Capital": "Copenhague",
+        "Ciudad propiamente": "638.790",
+        "Área urbana": ""
+    },
+    {
+        "País": "Eslovaquia",
+        "Capital": "Bratislava",
+        "Ciudad propiamente": "435.296",
+        "Área urbana": ""
+    },
+    {
+        "País": "Eslovenia",
+        "Capital": "Ljubljana",
+        "Ciudad propiamente": "285.604",
+        "Área urbana": "287.497"
+    },
+    {
+        "País": "España",
+        "Capital": "Madrid",
+        "Ciudad propiamente": "3.320.069",
+        "Área urbana": "6.211.000"
+    },
+    {
+        "País": "Estonia",
+        "Capital": "Tallinn",
+        "Ciudad propiamente": "437.817",
+        "Área urbana": ""
+    },
+    {
+        "País": "Finlandia",
+        "Capital": "Helsinki",
+        "Ciudad propiamente": "656.920",
+        "Área urbana": ""
+    },
+    {
+        "País": "Francia",
+        "Capital": "París",
+        "Ciudad propiamente": "2.102.650",
+        "Área urbana": "10.858.852"
+    },
+    {
+        "País": "Gibraltar",
+        "Capital": "Gibraltar",
+        "Ciudad propiamente": "34.003",
+        "Área urbana": ""
+    },
+    {
+        "País": "Grecia",
+        "Capital": "Athens",
+        "Ciudad propiamente": "643.452",
+        "Área urbana": "3.059.764"
+    },
+    {
+        "País": "Guernsey",
+        "Capital": "Saint Peter Port",
+        "Ciudad propiamente": "19.354",
+        "Área urbana": ""
+    },
+    {
+        "País": "Hungría",
+        "Capital": "Budapest",
+        "Ciudad propiamente": "1.737.026",
+        "Área urbana": "2.622.241"
+    },
+    {
+        "País": "Irlanda",
+        "Capital": "Dublin",
+        "Ciudad propiamente": "544.107",
+        "Área urbana": "1.173.179"
+    },
+    {
+        "País": "Isla de Man",
+        "Capital": "Douglas",
+        "Ciudad propiamente": "26.677",
+        "Área urbana": ""
+    },
+    {
+        "País": "Islandia",
+        "Capital": "Reykjavík",
+        "Ciudad propiamente": "129.964",
+        "Área urbana": "230.632"
+    },
+    {
+        "País": "Islas Åland",
+        "Capital": "Mariehamn",
+        "Ciudad propiamente": "11.750",
+        "Área urbana": ""
+    },
+    {
+        "País": "Islas Feroe",
+        "Capital": "Tórshavn",
+        "Ciudad propiamente": "13.888",
+        "Área urbana": ""
+    },
+    {
+        "País": "Italia",
+        "Capital": "Roma",
+        "Ciudad propiamente": "2.759.629",
+        "Área urbana": "460.000"
+    },
+    {
+        "País": "Jersey",
+        "Capital": "Saint Helier",
+        "Ciudad propiamente": "35.822",
+        "Área urbana": ""
+    },
+    {
+        "País": "Kosovo",
+        "Capital": "Pristina",
+        "Ciudad propiamente": "198.897",
+        "Área urbana": "161.751"
+    },
+    {
+        "País": "Letonia",
+        "Capital": "Riga",
+        "Ciudad propiamente": "614.618",
+        "Área urbana": ""
+    },
+    {
+        "País": "Liechtenstein",
+        "Capital": "Vaduz",
+        "Ciudad propiamente": "5.774",
+        "Área urbana": ""
+    },
+    {
+        "País": "Lituania",
+        "Capital": "Vilnius",
+        "Ciudad propiamente": "546.155",
+        "Área urbana": ""
+    },
+    {
+        "País": "Luxemburgo",
+        "Capital": "Luxembourg",
+        "Ciudad propiamente": "128.494",
+        "Área urbana": ""
+    },
+    {
+        "País": "Macedonia del Norte",
+        "Capital": "Skopje",
+        "Ciudad propiamente": "488.103",
+        "Área urbana": ""
+    },
+    {
+        "País": "Malta",
+        "Capital": "Valletta",
+        "Ciudad propiamente": "5.876",
+        "Área urbana": ""
+    },
+    {
+        "País": "Moldavia",
+        "Capital": "Chisinau",
+        "Ciudad propiamente": "339.079",
+        "Área urbana": "726.075"
+    },
+    {
+        "País": "Mónaco",
+        "Capital": "Monaco",
+        "Ciudad propiamente": "39.050",
+        "Área urbana": ""
+    },
+    {
+        "País": "Montenegro",
+        "Capital": "Podgorica",
+        "Ciudad propiamente": "150.977",
+        "Área urbana": "173.024"
+    },
+    {
+        "País": "Noruega",
+        "Capital": "Oslo",
+        "Ciudad propiamente": "681.067",
+        "Área urbana": ""
+    },
+    {
+        "País": "Países Bajos",
+        "Capital": "Ámsterdam",
+        "Ciudad propiamente": "918.117",
+        "Área urbana": "1.459.402"
+    },
+    {
+        "País": "Polonia",
+        "Capital": "Varsovia",
+        "Ciudad propiamente": "1.863.056",
+        "Área urbana": ""
+    },
+    {
+        "País": "Portugal",
+        "Capital": "Lisbon",
+        "Ciudad propiamente": "548.703",
+        "Área urbana": "1.313.000"
+    },
+    {
+        "País": "Reino Unido",
+        "Capital": "Londres",
+        "Ciudad propiamente": "8.825.001",
+        "Área urbana": "11.262.000"
+    },
+    {
+        "País": "Rumania",
+        "Capital": "Bucarest",
+        "Ciudad propiamente": "1.823.526",
+        "Área urbana": "307.000"
+    },
+    {
+        "País": "Rusia",
+        "Capital": "Moscú",
+        "Ciudad propiamente": "13.010.112",
+        "Área urbana": "18.800.000"
+    },
+    {
+        "País": "San Marino",
+        "Capital": "San Marino",
+        "Ciudad propiamente": "4.127",
+        "Área urbana": ""
+    },
+    {
+        "País": "Serbia",
+        "Capital": "Belgrado",
+        "Ciudad propiamente": "1.387.422",
+        "Área urbana": "1.694.480"
+    },
+    {
+        "País": "Suecia",
+        "Capital": "Estocolmo",
+        "Ciudad propiamente": "984.748",
+        "Área urbana": "2.121.000"
+    },
+    {
+        "País": "Suiza",
+        "Capital": "Bern",
+        "Ciudad propiamente": "134.290",
+        "Área urbana": "424.734"
+    },
+    {
+        "País": "Svalbard",
+        "Capital": "Longyearbyen",
+        "Ciudad propiamente": "1.753",
+        "Área urbana": ""
+    },
+    {
+        "País": "Ucrania",
+        "Capital": "Kyiv",
+        "Ciudad propiamente": "2.893.215",
+        "Área urbana": ""
+    },
+    {
+        "País": "Vaticano",
+        "Capital": "Ciudad del Vaticano",
+        "Ciudad propiamente": "764",
+        "Área urbana": ""
+    },
+    {
+        "País": "Anguila",
+        "Capital": "The Valley",
+        "Ciudad propiamente": "3.269",
+        "Área urbana": ""
+    },
+    {
+        "País": "Antigua y Barbuda",
+        "Capital": "Saint John’s",
+        "Ciudad propiamente": "22.219",
+        "Área urbana": ""
+    },
+    {
+        "País": "Argentina",
+        "Capital": "Buenos Aires",
+        "Ciudad propiamente": "2.570.160",
+        "Área urbana": "3.120.612"
+    },
+    {
+        "País": "Aruba",
+        "Capital": "Oranjestad",
+        "Ciudad propiamente": "28.658",
+        "Área urbana": ""
+    },
+    {
+        "País": "Bahamas",
+        "Capital": "Nassau",
+        "Ciudad propiamente": "266.100",
+        "Área urbana": ""
+    },
+    {
+        "País": "Barbados",
+        "Capital": "Bridgetown",
+        "Ciudad propiamente": "110.000",
+        "Área urbana": ""
+    },
+    {
+        "País": "Belice",
+        "Capital": "Belmopan",
+        "Ciudad propiamente": "13.381",
+        "Área urbana": ""
+    },
+    {
+        "País": "Bermudas",
+        "Capital": "Hamilton",
+        "Ciudad propiamente": "854",
+        "Área urbana": ""
+    },
+    {
+        "País": "Bolivia",
+        "Capital": "Sucre",
+        "Ciudad propiamente": "360.544",
+        "Área urbana": ""
+    },
+    {
+        "País": "Brasil",
+        "Capital": "Brasilia",
+        "Ciudad propiamente": "2.481.272",
+        "Área urbana": "2.817.381"
+    },
+    {
+        "País": "Canadá",
+        "Capital": "Ottawa",
+        "Ciudad propiamente": "1.071.868",
+        "Área urbana": "1.476.756"
+    },
+    {
+        "País": "Chile",
+        "Capital": "Santiago",
+        "Ciudad propiamente": "536.089",
+        "Área urbana": "7.171.000"
+    },
+    {
+        "País": "Colombia",
+        "Capital": "Bogotá",
+        "Ciudad propiamente": "7.181.469",
+        "Área urbana": "10.085.000"
+    },
+    {
+        "País": "Costa Rica",
+        "Capital": "San José",
+        "Ciudad propiamente": "354.025",
+        "Área urbana": ""
+    },
+    {
+        "País": "Cuba",
+        "Capital": "la Habana",
+        "Ciudad propiamente": "2.137.847",
+        "Área urbana": "438.000"
+    },
+    {
+        "País": "Curaçao",
+        "Capital": "Willemstad",
+        "Ciudad propiamente": "136.660",
+        "Área urbana": ""
+    },
+    {
+        "País": "Dominica",
+        "Capital": "Roseau",
+        "Ciudad propiamente": "16.571",
+        "Área urbana": ""
+    },
+    {
+        "País": "Ecuador",
+        "Capital": "Quito",
+        "Ciudad propiamente": "1.763.275",
+        "Área urbana": "2.889.703"
+    },
+    {
+        "País": "EE.UU.",
+        "Capital": "Washington, D.C.",
+        "Ciudad propiamente": "671.803",
+        "Área urbana": "5.174.759"
+    },
+    {
+        "País": "El Salvador",
+        "Capital": "San Salvador",
+        "Ciudad propiamente": "200.319",
+        "Área urbana": ""
+    },
+    {
+        "País": "Georgia del Sur",
+        "Capital": "King Edward Point",
+        "Ciudad propiamente": "12",
+        "Área urbana": ""
+    },
+    {
+        "País": "Granada",
+        "Capital": "Saint George's",
+        "Ciudad propiamente": "33.734",
+        "Área urbana": "36.586"
+    },
+    {
+        "País": "Groenlandia",
+        "Capital": "Nuuk",
+        "Ciudad propiamente": "18.128",
+        "Área urbana": ""
+    },
+    {
+        "País": "Guadalupe",
+        "Capital": "Basse-Terre",
+        "Ciudad propiamente": "9.779",
+        "Área urbana": ""
+    },
+    {
+        "País": "Guatemala",
+        "Capital": "Ciudad de Guatemala",
+        "Ciudad propiamente": "923.392",
+        "Área urbana": ""
+    },
+    {
+        "País": "Guayana",
+        "Capital": "Georgetown",
+        "Ciudad propiamente": "24.849",
+        "Área urbana": "118.368"
+    },
+    {
+        "País": "Guayana Francesa",
+        "Capital": "Cayenne",
+        "Ciudad propiamente": "57.614",
+        "Área urbana": "114.017"
+    },
+    {
+        "País": "Haití",
+        "Capital": "Port-au-Prince",
+        "Ciudad propiamente": "1.200.000",
+        "Área urbana": ""
+    },
+    {
+        "País": "Honduras",
+        "Capital": "Tegucigalpa",
+        "Ciudad propiamente": "996.658",
+        "Área urbana": ""
+    },
+    {
+        "País": "Islas Caimán",
+        "Capital": "George Town",
+        "Ciudad propiamente": "34.921",
+        "Área urbana": ""
+    },
+    {
+        "País": "Islas Vírgenes (UK)",
+        "Capital": "Road Town",
+        "Ciudad propiamente": "12.603",
+        "Área urbana": ""
+    },
+    {
+        "País": "Jamaica",
+        "Capital": "Kingston",
+        "Ciudad propiamente": "662.435",
+        "Área urbana": ""
+    },
+    {
+        "País": "Malvinas",
+        "Capital": "Stanley",
+        "Ciudad propiamente": "2.460",
+        "Área urbana": ""
+    },
+    {
+        "País": "Martinica",
+        "Capital": "Fort-de-France",
+        "Ciudad propiamente": "82.502",
+        "Área urbana": "123.369"
+    },
+    {
+        "País": "México",
+        "Capital": "Ciudad de México",
+        "Ciudad propiamente": "9.209.944",
+        "Área urbana": "21.977.188"
+    },
+    {
+        "País": "Montserrat",
+        "Capital": "Brades",
+        "Ciudad propiamente": "449",
+        "Área urbana": ""
+    },
+    {
+        "País": "Nicaragua",
+        "Capital": "Managua",
+        "Ciudad propiamente": "1.061.054",
+        "Área urbana": "1.051.236"
+    },
+    {
+        "País": "Panamá",
+        "Capital": "Ciudad de Panama",
+        "Ciudad propiamente": "505.627",
+        "Área urbana": "1.166.123"
+    },
+    {
+        "País": "Paraguay",
+        "Capital": "Asunción",
+        "Ciudad propiamente": "477.346",
+        "Área urbana": "2.343.908"
+    },
+    {
+        "País": "Perú",
+        "Capital": "Lima",
+        "Ciudad propiamente": "9.562.280",
+        "Área urbana": "10.320.000"
+    },
+    {
+        "País": "Puerto Rico",
+        "Capital": "San Juan",
+        "Ciudad propiamente": "337.300",
+        "Área urbana": "395.326"
+    },
+    {
+        "País": "República Dominicana",
+        "Capital": "Santo Domingo",
+        "Ciudad propiamente": "1.029.110",
+        "Área urbana": ""
+    },
+    {
+        "País": "San Bartolomé",
+        "Capital": "Gustavia",
+        "Ciudad propiamente": "2.615",
+        "Área urbana": ""
+    },
+    {
+        "País": "San Cristóbal",
+        "Capital": "Basseterre",
+        "Ciudad propiamente": "14.000",
+        "Área urbana": ""
+    },
+    {
+        "País": "San Martín",
+        "Capital": "Marigot",
+        "Ciudad propiamente": "5.700",
+        "Área urbana": ""
+    },
+    {
+        "País": "San Pedro y Miquelón",
+        "Capital": "Saint-Pierre",
+        "Ciudad propiamente": "5.415",
+        "Área urbana": ""
+    },
+    {
+        "País": "San Vicente y las Granadinas",
+        "Capital": "Kingstown",
+        "Ciudad propiamente": "12.909",
+        "Área urbana": ""
+    },
+    {
+        "País": "Santa Lucía",
+        "Capital": "Castries",
+        "Ciudad propiamente": "3.661",
+        "Área urbana": ""
+    },
+    {
+        "País": "Sint Maarten",
+        "Capital": "Philipsburg",
+        "Ciudad propiamente": "1.894",
+        "Área urbana": ""
+    },
+    {
+        "País": "Surinam",
+        "Capital": "Paramaribo",
+        "Ciudad propiamente": "240.924",
+        "Área urbana": ""
+    },
+    {
+        "País": "Trinidad y Tobago",
+        "Capital": "Port-of-Spain",
+        "Ciudad propiamente": "81.142",
+        "Área urbana": ""
+    },
+    {
+        "País": "Turcas y Caicos",
+        "Capital": "Cockburn Town",
+        "Ciudad propiamente": "4.831",
+        "Área urbana": ""
+    },
+    {
+        "País": "Uruguay",
+        "Capital": "Montevideo",
+        "Ciudad propiamente": "1.384.210",
+        "Área urbana": ""
+    },
+    {
+        "País": "Venezuela",
+        "Capital": "Caracas",
+        "Ciudad propiamente": "3.242.000",
+        "Área urbana": ""
+    },
+    {
+        "País": "Vírgenes Americanas",
+        "Capital": "Charlotte Amalie",
+        "Ciudad propiamente": "14.477",
+        "Área urbana": ""
+    },
+    {
+        "País": "Afganistán",
+        "Capital": "Kabul",
+        "Ciudad propiamente": "4.954.000",
+        "Área urbana": ""
+    },
+    {
+        "País": "Arabia Saudita",
+        "Capital": "Riyadh",
+        "Ciudad propiamente": "7.009.100",
+        "Área urbana": ""
+    },
+    {
+        "País": "Armenia",
+        "Capital": "Ereván",
+        "Ciudad propiamente": "1.087.886",
+        "Área urbana": ""
+    },
+    {
+        "País": "Azerbaiyán",
+        "Capital": "Baku",
+        "Ciudad propiamente": "2.330.425",
+        "Área urbana": "2.675.000"
+    },
+    {
+        "País": "Bahrein",
+        "Capital": "Manama",
+        "Ciudad propiamente": "200.000",
+        "Área urbana": "635.000"
+    },
+    {
+        "País": "Bangladesh",
+        "Capital": "Dhaka",
+        "Ciudad propiamente": "10.295.407",
+        "Área urbana": "18.627.000"
+    },
+    {
+        "País": "Brunéi",
+        "Capital": "Bandar Seri Begawan",
+        "Ciudad propiamente": "100.700",
+        "Área urbana": "279.924"
+    },
+    {
+        "País": "Bután",
+        "Capital": "Thimphu",
+        "Ciudad propiamente": "114.551",
+        "Área urbana": ""
+    },
+    {
+        "País": "Camboya",
+        "Capital": "Phnom Penh",
+        "Ciudad propiamente": "2.281.951",
+        "Área urbana": ""
+    },
+    {
+        "País": "Catar",
+        "Capital": "Doha",
+        "Ciudad propiamente": "1.186.023",
+        "Área urbana": ""
+    },
+    {
+        "País": "China",
+        "Capital": "Pekín",
+        "Ciudad propiamente": "21.893.095",
+        "Área urbana": "18.522.000"
+    },
+    {
+        "País": "Chipre",
+        "Capital": "Nicosia",
+        "Ciudad propiamente": "116.392",
+        "Área urbana": "326.739"
+    },
+    {
+        "País": "Corea del Norte",
+        "Capital": "Pyongyang",
+        "Ciudad propiamente": "3.157.538",
+        "Área urbana": "353.000"
+    },
+    {
+        "País": "Corea del Sur",
+        "Capital": "Seúl",
+        "Ciudad propiamente": "9.617.795",
+        "Área urbana": "26.037.000"
+    },
+    {
+        "País": "Emiratos Árabes",
+        "Capital": "Abu Dhabi",
+        "Ciudad propiamente": "392.000",
+        "Área urbana": "1.807.000"
+    },
+    {
+        "País": "Filipinas",
+        "Capital": "Manila",
+        "Ciudad propiamente": "1.846.513",
+        "Área urbana": "24.922.000"
+    },
+    {
+        "País": "Georgia",
+        "Capital": "Tiflis",
+        "Ciudad propiamente": "1.154.314",
+        "Área urbana": "1.184.818"
+    },
+    {
+        "País": "Hong Kong",
+        "Capital": "Hong Kong",
+        "Ciudad propiamente": "7.346.100",
+        "Área urbana": ""
+    },
+    {
+        "País": "India",
+        "Capital": "New Delhi",
+        "Ciudad propiamente": "302.363",
+        "Área urbana": ""
+    },
+    {
+        "País": "Indonesia",
+        "Capital": "Jacarta",
+        "Ciudad propiamente": "10.679.951",
+        "Área urbana": "34.540.000"
+    },
+    {
+        "País": "Irán",
+        "Capital": "Teherán",
+        "Ciudad propiamente": "9.033.003",
+        "Área urbana": "14.148.000"
+    },
+    {
+        "País": "Iraq",
+        "Capital": "Bagdad",
+        "Ciudad propiamente": "8.780.422",
+        "Área urbana": "7.287.750"
+    },
+    {
+        "País": "Israel",
+        "Capital": "Jerusalén",
+        "Ciudad propiamente": "958.679",
+        "Área urbana": "932.000"
+    },
+    {
+        "País": "Japón",
+        "Capital": "Tokio",
+        "Ciudad propiamente": "13.515.271",
+        "Área urbana": "37.732.000"
+    },
+    {
+        "País": "Jordania",
+        "Capital": "Amman",
+        "Ciudad propiamente": "4.061.150",
+        "Área urbana": ""
+    },
+    {
+        "País": "Kazajistán​​​",
+        "Capital": "Nursultan",
+        "Ciudad propiamente": "1.354.507",
+        "Área urbana": ""
+    },
+    {
+        "País": "Kirguistán",
+        "Capital": "Bishkek",
+        "Ciudad propiamente": "1.071.261",
+        "Área urbana": "1.086.261"
+    },
+    {
+        "País": "Kuwait",
+        "Capital": "Ciudad de Kuwait",
+        "Ciudad propiamente": "62.074",
+        "Área urbana": "3.000.000"
+    },
+    {
+        "País": "Laos",
+        "Capital": "Vientiane",
+        "Ciudad propiamente": "1.003.004",
+        "Área urbana": ""
+    },
+    {
+        "País": "Líbano",
+        "Capital": "Beirut",
+        "Ciudad propiamente": "433.249",
+        "Área urbana": "2.145.527"
+    },
+    {
+        "País": "Macao",
+        "Capital": "Concelho de Macao",
+        "Ciudad propiamente": "677.300",
+        "Área urbana": ""
+    },
+    {
+        "País": "Malasia",
+        "Capital": "Kuala Lumpur",
+        "Ciudad propiamente": "1.982.112",
+        "Área urbana": ""
+    },
+    {
+        "País": "Maldivas",
+        "Capital": "Malé",
+        "Ciudad propiamente": "240.984",
+        "Área urbana": ""
+    },
+    {
+        "País": "Mongolia",
+        "Capital": "Ulaanbaatar",
+        "Ciudad propiamente": "1.665.469",
+        "Área urbana": ""
+    },
+    {
+        "País": "Myanmar",
+        "Capital": "Nay Pyi Taw",
+        "Ciudad propiamente": "924.608",
+        "Área urbana": ""
+    },
+    {
+        "País": "Nepal",
+        "Capital": "Kathmandu",
+        "Ciudad propiamente": "975.453",
+        "Área urbana": ""
+    },
+    {
+        "País": "Omán",
+        "Capital": "Muscat",
+        "Ciudad propiamente": "31.409",
+        "Área urbana": "1.720.000"
+    },
+    {
+        "País": "Pakistán",
+        "Capital": "Islamabad",
+        "Ciudad propiamente": "1.009.003",
+        "Área urbana": ""
+    },
+    {
+        "País": "Palestina",
+        "Capital": "Ramallah (resp. Jerusalén Este)",
+        "Ciudad propiamente": "38.998",
+        "Área urbana": "153.237"
+    },
+    {
+        "País": "Singapur",
+        "Capital": "Singapur",
+        "Ciudad propiamente": "5.637.022",
+        "Área urbana": "5.935.000"
+    },
+    {
+        "País": "Siria",
+        "Capital": "Damasco",
+        "Ciudad propiamente": "2.503.000",
+        "Área urbana": ""
+    },
+    {
+        "País": "Sri Lanka",
+        "Capital": "Colombo",
+        "Ciudad propiamente": "752.993",
+        "Área urbana": "2.323.826"
+    },
+    {
+        "País": "Tailandia",
+        "Capital": "Bangkok",
+        "Ciudad propiamente": "10.539.000",
+        "Área urbana": "14.626.225"
+    },
+    {
+        "País": "Taiwán",
+        "Capital": "Taipei",
+        "Ciudad propiamente": "2.494.813",
+        "Área urbana": "9.078.000"
+    },
+    {
+        "País": "Tayikistán",
+        "Capital": "Dushanbe",
+        "Ciudad propiamente": "1.201.800",
+        "Área urbana": ""
+    },
+    {
+        "País": "Timor Oriental",
+        "Capital": "Dili",
+        "Ciudad propiamente": "222.323",
+        "Área urbana": ""
+    },
+    {
+        "País": "Turkmenistán",
+        "Capital": "Ashgabat",
+        "Ciudad propiamente": "1.030.063",
+        "Área urbana": ""
+    },
+    {
+        "País": "Turquía",
+        "Capital": "Ankara",
+        "Ciudad propiamente": "5.165.783",
+        "Área urbana": ""
+    },
+    {
+        "País": "Uzbekistán",
+        "Capital": "Tashkent",
+        "Ciudad propiamente": "2.862.420",
+        "Área urbana": ""
+    },
+    {
+        "País": "Vietnam",
+        "Capital": "Hanoi",
+        "Ciudad propiamente": "4.138.500",
+        "Área urbana": "8.435.700"
+    },
+    {
+        "País": "Yemen",
+        "Capital": "Sanaa",
+        "Ciudad propiamente": "2.545.000",
+        "Área urbana": ""
+    },
+    {
+        "País": "Angola",
+        "Capital": "Luanda",
+        "Ciudad propiamente": "2.571.861",
+        "Área urbana": ""
+    },
+    {
+        "País": "Argelia",
+        "Capital": "Argel",
+        "Ciudad propiamente": "2.712.944",
+        "Área urbana": "4.510.000"
+    },
+    {
+        "País": "Benín",
+        "Capital": "Porto-Novo",
+        "Ciudad propiamente": "264.320",
+        "Área urbana": ""
+    },
+    {
+        "País": "Botsuana",
+        "Capital": "Gaborone",
+        "Ciudad propiamente": "246.323",
+        "Área urbana": ""
+    },
+    {
+        "País": "Burkina Faso",
+        "Capital": "Ouagadougou",
+        "Ciudad propiamente": "2.415.266",
+        "Área urbana": ""
+    },
+    {
+        "País": "Burundi",
+        "Capital": "Bujumbura",
+        "Ciudad propiamente": "374.809",
+        "Área urbana": "1.143.202"
+    },
+    {
+        "País": "Cabo Verde",
+        "Capital": "Praia",
+        "Ciudad propiamente": "159.050",
+        "Área urbana": ""
+    },
+    {
+        "País": "Camerún",
+        "Capital": "Yaundé",
+        "Ciudad propiamente": "2.765.600",
+        "Área urbana": ""
+    },
+    {
+        "País": "Centroáfrica",
+        "Capital": "Bangui",
+        "Ciudad propiamente": "812.407",
+        "Área urbana": ""
+    },
+    {
+        "País": "Chad",
+        "Capital": "N'Djamena",
+        "Ciudad propiamente": "807.000",
+        "Área urbana": ""
+    },
+    {
+        "País": "Comores",
+        "Capital": "Moroni",
+        "Ciudad propiamente": "111.326",
+        "Área urbana": ""
+    },
+    {
+        "País": "Congo",
+        "Capital": "Brazzaville",
+        "Ciudad propiamente": "2.145.783",
+        "Área urbana": ""
+    },
+    {
+        "País": "Congo (Rep. Democr.)",
+        "Capital": "Kinshasa",
+        "Ciudad propiamente": "14.565.700",
+        "Área urbana": "12.836.000"
+    },
+    {
+        "País": "Costa de Marfil",
+        "Capital": "Yamoussoukro",
+        "Ciudad propiamente": "279.977",
+        "Área urbana": "5.203.000"
+    },
+    {
+        "País": "Egipto",
+        "Capital": "Cairo",
+        "Ciudad propiamente": "10.044.894",
+        "Área urbana": "20.296.000"
+    },
+    {
+        "País": "Eritrea",
+        "Capital": "Asmara",
+        "Ciudad propiamente": "1.073.000",
+        "Área urbana": ""
+    },
+    {
+        "País": "Esuatini",
+        "Capital": "Mbabane",
+        "Ciudad propiamente": "60.691",
+        "Área urbana": ""
+    },
+    {
+        "País": "Etiopía",
+        "Capital": "Addis Ababa",
+        "Ciudad propiamente": "3.945.000",
+        "Área urbana": ""
+    },
+    {
+        "País": "Gabón",
+        "Capital": "Libreville",
+        "Ciudad propiamente": "703.904",
+        "Área urbana": "703.939"
+    },
+    {
+        "País": "Gambia",
+        "Capital": "Banjul",
+        "Ciudad propiamente": "31.301",
+        "Área urbana": "413.397"
+    },
+    {
+        "País": "Ghana",
+        "Capital": "Accra",
+        "Ciudad propiamente": "284.124",
+        "Área urbana": "1.782.150"
+    },
+    {
+        "País": "Guinea",
+        "Capital": "Conakry",
+        "Ciudad propiamente": "1.659.785",
+        "Área urbana": "1.879.695"
+    },
+    {
+        "País": "Guinea Ecuatorial",
+        "Capital": "Malabo",
+        "Ciudad propiamente": "315.665",
+        "Área urbana": "332.980"
+    },
+    {
+        "País": "Guinea-Bissau",
+        "Capital": "Bissau",
+        "Ciudad propiamente": "492.004",
+        "Área urbana": ""
+    },
+    {
+        "País": "Kenia",
+        "Capital": "Nairobi",
+        "Ciudad propiamente": "4.397.073",
+        "Área urbana": "4.395.749"
+    },
+    {
+        "País": "Lesotho",
+        "Capital": "Maseru",
+        "Ciudad propiamente": "330.760",
+        "Área urbana": ""
+    },
+    {
+        "País": "Liberia",
+        "Capital": "Monrovia",
+        "Ciudad propiamente": "1.761.032",
+        "Área urbana": "970.824"
+    },
+    {
+        "País": "Libia",
+        "Capital": "Trípoli",
+        "Ciudad propiamente": "1.183.000",
+        "Área urbana": ""
+    },
+    {
+        "País": "Madagascar",
+        "Capital": "Antananarivo",
+        "Ciudad propiamente": "1.275.207",
+        "Área urbana": "2.300.000"
+    },
+    {
+        "País": "Malaui",
+        "Capital": "Lilongwe",
+        "Ciudad propiamente": "989.318",
+        "Área urbana": ""
+    },
+    {
+        "País": "Malí",
+        "Capital": "Bamako",
+        "Ciudad propiamente": "2.929.373",
+        "Área urbana": "4.227.569"
+    },
+    {
+        "País": "Marruecos",
+        "Capital": "Rabat",
+        "Ciudad propiamente": "645.500",
+        "Área urbana": ""
+    },
+    {
+        "País": "Mauricio",
+        "Capital": "Port Louis",
+        "Ciudad propiamente": "143.574",
+        "Área urbana": ""
+    },
+    {
+        "País": "Mauritania",
+        "Capital": "Nouakchott",
+        "Ciudad propiamente": "958.399",
+        "Área urbana": ""
+    },
+    {
+        "País": "Mayotte",
+        "Capital": "Mamoudzou",
+        "Ciudad propiamente": "71.437",
+        "Área urbana": ""
+    },
+    {
+        "País": "Mozambique",
+        "Capital": "Maputo",
+        "Ciudad propiamente": "1.080.277",
+        "Área urbana": ""
+    },
+    {
+        "País": "Namibia",
+        "Capital": "Windhoek",
+        "Ciudad propiamente": "429.974",
+        "Área urbana": ""
+    },
+    {
+        "País": "Níger",
+        "Capital": "Niamey",
+        "Ciudad propiamente": "1.334.984",
+        "Área urbana": ""
+    },
+    {
+        "País": "Nigeria",
+        "Capital": "Abuja",
+        "Ciudad propiamente": "1.693.400",
+        "Área urbana": "3.770.000"
+    },
+    {
+        "País": "Reunión",
+        "Capital": "Saint-Denis",
+        "Ciudad propiamente": "146.985",
+        "Área urbana": "178.805"
+    },
+    {
+        "País": "Ruanda",
+        "Capital": "Kigali",
+        "Ciudad propiamente": "1.745.555",
+        "Área urbana": "1.518.632"
+    },
+    {
+        "País": "Sáhara Occ.",
+        "Capital": "El Aaiún",
+        "Ciudad propiamente": "217.732",
+        "Área urbana": ""
+    },
+    {
+        "País": "Santa Elena",
+        "Capital": "Jamestown",
+        "Ciudad propiamente": "629",
+        "Área urbana": ""
+    },
+    {
+        "País": "Santo Tomé y Príncipe",
+        "Capital": "São Tomé",
+        "Ciudad propiamente": "71.868",
+        "Área urbana": ""
+    },
+    {
+        "País": "Senegal",
+        "Capital": "Dakar",
+        "Ciudad propiamente": "1.182.417",
+        "Área urbana": ""
+    },
+    {
+        "País": "Seychelles",
+        "Capital": "Victoria",
+        "Ciudad propiamente": "26.450",
+        "Área urbana": ""
+    },
+    {
+        "País": "Sierra Leona",
+        "Capital": "Freetown",
+        "Ciudad propiamente": "1.055.964",
+        "Área urbana": ""
+    },
+    {
+        "País": "Somalia",
+        "Capital": "Mogadishu",
+        "Ciudad propiamente": "2.610.483",
+        "Área urbana": ""
+    },
+    {
+        "País": "Sudáfrica",
+        "Capital": "Pretoria",
+        "Ciudad propiamente": "2.818.100",
+        "Área urbana": "2.921.488"
+    },
+    {
+        "País": "Sudán",
+        "Capital": "Khartoum",
+        "Ciudad propiamente": "639.598",
+        "Área urbana": "6.017.000"
+    },
+    {
+        "País": "Sudán del Sur",
+        "Capital": "Juba",
+        "Ciudad propiamente": "525.953",
+        "Área urbana": ""
+    },
+    {
+        "País": "Tanzania",
+        "Capital": "Dodoma",
+        "Ciudad propiamente": "2.083.588",
+        "Área urbana": ""
+    },
+    {
+        "País": "Togo",
+        "Capital": "Lomé",
+        "Ciudad propiamente": "1.500.000",
+        "Área urbana": ""
+    },
+    {
+        "País": "Túnez",
+        "Capital": "Túnez",
+        "Ciudad propiamente": "599.368",
+        "Área urbana": ""
+    },
+    {
+        "País": "Uganda",
+        "Capital": "Kampala",
+        "Ciudad propiamente": "1.680.600",
+        "Área urbana": ""
+    },
+    {
+        "País": "Yibuti",
+        "Capital": "Yibuti",
+        "Ciudad propiamente": "600.000",
+        "Área urbana": "302.000"
+    },
+    {
+        "País": "Zambia",
+        "Capital": "Lusaka",
+        "Ciudad propiamente": "2.731.696",
+        "Área urbana": ""
+    },
+    {
+        "País": "Zimbabue",
+        "Capital": "Harare",
+        "Ciudad propiamente": "1.698.122",
+        "Área urbana": ""
+    },
+    {
+        "País": "Australia",
+        "Capital": "Canberra",
+        "Ciudad propiamente": "453.558",
+        "Área urbana": ""
+    },
+    {
+        "País": "Fiyi",
+        "Capital": "Suva",
+        "Ciudad propiamente": "93.970",
+        "Área urbana": "185.913"
+    },
+    {
+        "País": "Guam",
+        "Capital": "Hagåtña",
+        "Ciudad propiamente": "943",
+        "Área urbana": ""
+    },
+    {
+        "País": "Isla de Navidad",
+        "Capital": "Flying Fish Cove",
+        "Ciudad propiamente": "1.599",
+        "Área urbana": ""
+    },
+    {
+        "País": "Isla Norfolk",
+        "Capital": "Kingston",
+        "Ciudad propiamente": "341",
+        "Área urbana": ""
+    },
+    {
+        "País": "Islas Cocos",
+        "Capital": "West Island",
+        "Ciudad propiamente": "120",
+        "Área urbana": ""
+    },
+    {
+        "País": "Islas Cook",
+        "Capital": "Avarua",
+        "Ciudad propiamente": "4.906",
+        "Área urbana": ""
+    },
+    {
+        "País": "Islas Marianas",
+        "Capital": "Saipan",
+        "Ciudad propiamente": "43.385",
+        "Área urbana": ""
+    },
+    {
+        "País": "Islas Marshall",
+        "Capital": "Majuro",
+        "Ciudad propiamente": "23.156",
+        "Área urbana": ""
+    },
+    {
+        "País": "Islas Pitcairn",
+        "Capital": "Adamstown",
+        "Ciudad propiamente": "47",
+        "Área urbana": ""
+    },
+    {
+        "País": "Islas Salomón",
+        "Capital": "Honiara",
+        "Ciudad propiamente": "92.344",
+        "Área urbana": ""
+    },
+    {
+        "País": "Kiribati",
+        "Capital": "Tarawa",
+        "Ciudad propiamente": "70.480",
+        "Área urbana": "63.017"
+    },
+    {
+        "País": "Nauru",
+        "Capital": "Yaren",
+        "Ciudad propiamente": "672",
+        "Área urbana": ""
+    },
+    {
+        "País": "Niue",
+        "Capital": "Alofi",
+        "Ciudad propiamente": "597",
+        "Área urbana": ""
+    },
+    {
+        "País": "Nueva Caledonia",
+        "Capital": "Nouméa",
+        "Ciudad propiamente": "94.285",
+        "Área urbana": ""
+    },
+    {
+        "País": "Nueva Zelandia",
+        "Capital": "Wellington",
+        "Ciudad propiamente": "217.000",
+        "Área urbana": "418.500"
+    },
+    {
+        "País": "Papúa Nueva Guinea",
+        "Capital": "Port Moresby",
+        "Ciudad propiamente": "364.125",
+        "Área urbana": ""
+    },
+    {
+        "País": "Polinesia Francesa",
+        "Capital": "Papeete",
+        "Ciudad propiamente": "26.925",
+        "Área urbana": ""
+    },
+    {
+        "País": "Samoa",
+        "Capital": "Apia",
+        "Ciudad propiamente": "34.963",
+        "Área urbana": ""
+    },
+    {
+        "País": "Samoa Americana",
+        "Capital": "Pago Pago",
+        "Ciudad propiamente": "3.656",
+        "Área urbana": ""
+    },
+    {
+        "País": "Tonga",
+        "Capital": "Nuku‘alofa",
+        "Ciudad propiamente": "27.600",
+        "Área urbana": "74.454"
+    },
+    {
+        "País": "Tuvalu",
+        "Capital": "Funafuti",
+        "Ciudad propiamente": "6.320",
+        "Área urbana": ""
+    },
+    {
+        "País": "Vanuatu",
+        "Capital": "Port-Vila",
+        "Ciudad propiamente": "49.034",
+        "Área urbana": ""
+    },
+    {
+        "País": "Wallis y Futuna",
+        "Capital": "Mata-Utu",
+        "Ciudad propiamente": "1.029",
+        "Área urbana": ""
+    }
+]
